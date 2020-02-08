@@ -1,0 +1,7 @@
+git config --global alias.ci commit
+
+ci  commit
+st  status
+br  branch
+co  checkout
+
